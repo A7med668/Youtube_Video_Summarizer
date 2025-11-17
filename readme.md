@@ -1,5 +1,9 @@
 # 🎥 YouTube Video Summarizer
 
+<p align="center">
+  <img src="image/img1.png" alt="Food Mart Dashboard Pr" width="800"/>
+</p>
+
 A powerful web application that automatically extracts transcripts from YouTube videos and generates concise AI-powered summaries using state-of-the-art natural language processing.
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
