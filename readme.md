@@ -1,7 +1,9 @@
 # 🎥 YouTube Video Summarizer
 
 <p align="center">
-  <img src="Image/img1.png">
+  <a href="https://drive.google.com/file/d/1vt0617Af4sKZ5iJmSAcWA-YzwNfcZaC4/view">
+    <img src="Image/img1.png">
+  </a>
 </p>
 
 A powerful web application that automatically extracts transcripts from YouTube videos and generates concise AI-powered summaries using state-of-the-art natural language processing.
