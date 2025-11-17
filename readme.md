@@ -1,10 +1,6 @@
 # 🎥 YouTube Video Summarizer
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1vt0617Af4sKZ5iJmSAcWA-YzwNfcZaC4/view">
-    <img src="Image/img1.png">
-  </a>
-</p>
+
 
 A powerful web application that automatically extracts transcripts from YouTube videos and generates concise AI-powered summaries using state-of-the-art natural language processing.
 
@@ -12,8 +8,11 @@ A powerful web application that automatically extracts transcripts from YouTube 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-[![watch the video](img1.png)](https://drive.google.com/file/d/1vt0617Af4sKZ5iJmSAcWA-YzwNfcZaC4/view?usp=drive_link)
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/1vt0617Af4sKZ5iJmSAcWA-YzwNfcZaC4/view">
+    <img src="Image/img1.png">
+  </a>
+</p>
 
 ## 🚀 Overview
 
