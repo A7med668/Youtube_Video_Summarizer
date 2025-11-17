@@ -1,7 +1,7 @@
 # 🎥 YouTube Video Summarizer
 
 <p align="center">
-  <img src="image/img1.png" alt="Food Mart Dashboard Pr" width="800"/>
+  <img src="Image/img1.png">
 </p>
 
 A powerful web application that automatically extracts transcripts from YouTube videos and generates concise AI-powered summaries using state-of-the-art natural language processing.
