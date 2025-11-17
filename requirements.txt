@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers==4.52.4
+youtube-transcript-api
+pyngrok
+nest-asyncio
